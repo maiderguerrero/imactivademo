@@ -148,24 +148,12 @@
 	.content_type_clase_imactivademo #actividad .content .header .title {
 		margin-bottom: 30px;
     	text-align: center;
-    	background: #FAD8E4;
     	padding: 0;
     	width: 100%;
     	margin-left: 0px;
     	margin-top: 10px;
 	}
 
-	.content_type_clase_imactivademo #actividad .content .header .title:before {
-    	position: absolute;
-    	padding: 40px 20px 10px 20px;
-    	background: #EA368E;
-    	content: 'UNIDAD 2';
-    	left: 25px;
-    	font-size: 1.8rem;
-    	margin-top: -50px;
-    	color: #fff;
-    	font-family: 'Conv_Plakkaat',Sans-Serif;
-}
 
 	.content_type_clase_imactivademo #actividad .content .slide-concatenate .header .title {
 		display: none;
@@ -3329,9 +3317,6 @@ hr {
    
 }
 
-.content_type_clase_imactivademo #actividad .content .header .title {
-	margin-top: 0px;
-}
 
 
 .bck-box.bck-box1 {
