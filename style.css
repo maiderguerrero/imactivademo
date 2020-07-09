@@ -2180,6 +2180,8 @@ hr {
     -webkit-border-radius: 0px;
        -moz-border-radius: 0px;
     		border-radius: 0px;
+    text-align: center;
+    padding: 0px;
 }
 
 .content_type_clase_imactivademo .slide_main .fill-text .img-input-container {
