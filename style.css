@@ -602,6 +602,7 @@ a:hover, a:active, a:focus {
     font-size: 18px;
     margin-right: 30px;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 .btn-danger:hover, 
