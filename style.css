@@ -357,7 +357,7 @@
 
 /* Navbar */
 	.navbar-bottom {
-		background: #00A074 !important;
+		background: #484EA2 !important;
     	padding-left: 100px;
     	padding-right: 100px;
 	}
@@ -427,11 +427,11 @@
 		text-indent: initial;
 	}
 	#bottom-navigator li:hover {
-		  background: #ffcf01;
+		  background: #009c75;
     	  color: transparent;
 	}
 	#bottom-navigator li.active {
-		background: #ffcf01;
+		background: #009c75;
    		color: transparent;
 	}
 	#bottom-navigator.show_left:before {
