@@ -500,8 +500,10 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover,
 
 .btn-primary.disabled {
 	border-radius: 0px;
-	background-color: #ffcf01;
-
+	background-color: #334377;
+	font-size: 17px;
+	padding-left: 7px;
+    padding-right: 7px;
 }
 
 
