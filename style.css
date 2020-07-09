@@ -610,13 +610,7 @@ a:hover, a:active, a:focus {
     border-color: transparent;
 }
 
-/*botón corregir*/
-.btn-danger, .btn-danger[disabled] {
-	color: #fff;
-    background-color: #fc4237;
-    border-color: transparent;
 
-}
 
 /**/
 
