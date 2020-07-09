@@ -151,13 +151,12 @@
     .texto_curso p,
     .content_type_clase_imactivademo #actividad .slide_content_type_1 .pregunta .texto_curso, 
     .content_type_clase_imactivademo #actividad .texto_curso, .html-book {
-    line-height: 1.43em!important;
-    margin-bottom: 20px;
-    color: #484EA2;
-    font-size: 3.8rem;
-    letter-spacing: 3px;
-    font-family: 'Conv_Comfortaa-VariableFont_wght';
-    font-weight: bold;
+      margin-bottom: 20px;
+      color: #484EA2;
+      font-size: 3.8rem;
+      letter-spacing: 3px;
+      font-family: 'Conv_Comfortaa-VariableFont_wght';
+      font-weight: bold;
 }
 
 
