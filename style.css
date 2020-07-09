@@ -1359,6 +1359,14 @@ a:hover, a:active, a:focus {
     font-size: 2.5rem;
     border: 2px solid #009D77;
     border-radius: 20px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    text-align: center;
+    padding-bottom: 0px !important;
+}
+
+.bck-box2 .bck-title span {
+    padding-bottom: 0px !important;
 }
 
 .bck-box2 .bck-content{
@@ -1367,6 +1375,9 @@ a:hover, a:active, a:focus {
     border-radius: 20px;
     padding: 0px 0px 0px 0px;
     font-size: 2.5rem
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    border-top: none;
 }
 
 
