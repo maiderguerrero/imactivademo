@@ -80,12 +80,10 @@
 	}
 
 	.content_type_clase_imactivademo #actividad .content .header .title {
-		margin-bottom: 30px;
     	text-align: center;
     	padding: 0;
     	width: 100%;
-    	margin-left: 0px;
-    	margin-top: 10px;
+    	margin: 0;
 	}
 
 
