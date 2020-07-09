@@ -1350,17 +1350,23 @@ a:hover, a:active, a:focus {
 
 /* Caja 2*/ 
 .bck-box.bck-box2 {
-	border: 2px solid #009D77;
-	border-radius: 20px;
+	padding: 0;
 }
 
 .bck-box2 .bck-title {
 	color: #484EA2;
-    padding: 30px 25px 0px 25px;
+    padding: 0px 0px 0px 0px;
+    font-size: 2.5rem;
+    border: 2px solid #009D77;
+    border-radius: 20px;
 }
 
 .bck-box2 .bck-content{
 	color: #484EA2;
+	border: 2px solid #009D77;
+    border-radius: 20px;
+    padding: 0px 0px 0px 0px;
+    font-size: 2.5rem
 }
 
 
