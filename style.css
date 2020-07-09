@@ -1344,6 +1344,10 @@ a:hover, a:active, a:focus {
     padding: 0;
 }
 
+.bck-box.bck-box1 img {
+    padding: 0;
+}
+
 /* Caja 2*/ 
 .bck-box.bck-box2 {
 	border: none;
