@@ -1395,10 +1395,11 @@ a:hover, a:active, a:focus {
     width: 121.8%;
     padding: 50px;
     background-color: #484EA2;
-    color: #fff;
+    }
+
+.bck-box3 .bck-content {
+	color: #fff;
 }
-
-
 
 
 /* Caja 4 */
