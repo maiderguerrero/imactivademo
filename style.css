@@ -549,12 +549,11 @@ a:hover, a:active, a:focus {
 /*TITULO 2*/
 
 .bck-title2 {
-	font-size: 3.5rem;
-	font-family: 'Conv_ChelseaMarket-Regular';
-	color: #8ACFB8;
-	-webkit-text-stroke: #00AC81 2px;
-	margin-bottom: 30px;
-	text-align: center;
+	font-size: 2.3rem;
+    font-family:'times new roman,times,serif';
+    letter-spacing: 0px;
+    line-height: 0px !important;
+    font-weight: normal;
        
 }
 
@@ -1978,6 +1977,7 @@ hr {
 
 }
 
+/*Énfasis 2 ahora título 2*/
 .bck-enfasis-2 {
 	font-size: 2.3rem;
     font-family:'times new roman,times,serif';
