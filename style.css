@@ -2320,37 +2320,11 @@ a:hover, a:active, a:focus {
 
 /*Caja 1*/
 .bck-box.bck-box1 {
-	border: none;
-	background: #FFCF01;
-	margin-bottom: 30px;
-	padding: 15px 20px 30px 25px;
-	border-radius: 0px;
-	margin-top: -40px;
+    margin-top: -2.6%;
+    position: relative;
+    left: -11%;
+    width: 122.1%;
 }
-
-.bck-box1 .bck-title {
-	color: #fff;
-    background: #EA368E;
-    width: fit-content;
-    padding: 30px 25px 0px 25px;
-    font-family: 'Conv_Plakkaat',Sans-Serif;
-    font-size: 3.5rem;
-    margin-left: -50px;
-    margin-top: -15px;
-}
-
-.bck-box1 .bck-content{
-	background: #FFCF01;
-	font-family: 'Conv_ChelseaMarket-Regular';
-	color: #F3A1C1;
-	font-size: 4.8rem;
-	-webkit-text-stroke: #ea368e 3px;
-}
-
-.bck-box1 .bck-content .player.audio {
-	padding: 30px;
-}
-
 
 /* Caja 2*/ 
 .bck-box.bck-box2 {
@@ -2784,17 +2758,7 @@ a:hover, a:active, a:focus {
   }
 
 
-/*Caja 21*/
-
-.bck-box.bck-box21 {
-    margin-top: -10.6%;
-    position: relative;
-    left: -17.4%;
-    width: 132.3%;
-    margin-bottom: -86%;
-    background-color: transparent;
-    z-index: -1;
-}
+/*CAJA 21 BORRADA*/
 
 
 /*Caja 22*/
