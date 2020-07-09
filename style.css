@@ -602,7 +602,6 @@ a:hover, a:active, a:focus {
     font-size: 18px;
     margin-right: 30px;
     font-weight: bold;
-    margin-top: 10px;
 }
 
 .btn-danger:hover, 
@@ -2421,6 +2420,15 @@ a:hover, a:active, a:focus {
     left: -19.4%;
 }
 
+}
+
+
+@media screen and (max-width: 480px) {
+.btn-danger,
+.btn-solution,
+.btn-save[disabled] {
+	margin-bottom: 20px;
+}
 }
 
 /**/
