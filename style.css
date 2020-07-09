@@ -195,6 +195,12 @@
     text-align: center;
 }
 
+/*Seccion imagen unica*/
+
+#actividad .imagenunica .image-over-image .drag_image-over-image li {
+    width: 100%;
+}
+
 /*------Adjuntar archivo------*/
 
 .deliverablefile .divtitle .title-deliverablefile {
@@ -210,6 +216,7 @@
     color: #009c75;
     font-size: 1.75em;
     margin-top: 40px;
+    font-weight: bold;
     font-family: 'Conv_Comfortaa-VariableFont_wght';
 }
 
