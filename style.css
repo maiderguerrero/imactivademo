@@ -2427,7 +2427,7 @@ a:hover, a:active, a:focus {
 .btn-danger,
 .btn-solution,
 .btn-save[disabled] {
-	margin-bottom: 20px;
+	margin-bottom: 5px;
 }
 }
 
