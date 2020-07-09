@@ -591,6 +591,7 @@ a:hover, a:active, a:focus {
 }
 
 .btn-danger,
+.btn-solution,
 .btn-save[disabled] {
 	color: #C8494D;
     background-color: transparent;
@@ -603,7 +604,10 @@ a:hover, a:active, a:focus {
 
 .btn-danger:hover, 
 .btn-danger:focus, 
-.btn-danger:active {
+.btn-danger:active,
+.btn-solution:hover,
+.btn-solution:active
+ {
 	color: #fff;
     background-color: #C8494D;
     border-color: transparent;
