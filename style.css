@@ -590,8 +590,8 @@ a:hover, a:active, a:focus {
 
 }
 
-.btn-save[disabled],
-.btn-danger {
+.btn-danger,
+.btn-save[disabled] {
 	color: #C8494D;
     background-color: transparent;
     border-color: transparent;
