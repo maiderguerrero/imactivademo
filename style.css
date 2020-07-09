@@ -594,7 +594,6 @@ a:hover, a:active, a:focus {
 .btn-save[disabled] {
 	color: #C8494D;
     background-color: transparent;
-    border-color: transparent;
     border: 2px dotted #C8494D;
     font-family: 'Conv_Comfortaa-VariableFont_wght';
     font-size: 18px;
