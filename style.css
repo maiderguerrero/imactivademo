@@ -1339,14 +1339,20 @@ a:hover, a:active, a:focus {
 .bck-box.bck-box1 {
     margin-top: -2.6%;
     position: relative;
-    left: -11%;
-    width: 120.1%;
+    left: -12%;
+    width: 121.8%;
     padding: 0;
 }
 
 .bck-box.bck-box1 img {
     padding: 0;
 }
+
+.bck-box1 .bck-content img {
+	padding: 0px;
+}
+
+
 
 /* Caja 2*/ 
 .bck-box.bck-box2 {
