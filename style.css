@@ -1,81 +1,18 @@
 /*Fuentes*/
 
 @font-face {
-	font-family: 'Conv_Plakkaat';
-	src: url('fonts/Plakkaat.eot');
+	font-family: 'Conv_Comfortaa-VariableFont_wght';
+	src: url('fonts/Comfortaa-VariableFont_wght.eot');
 	src: local('☺'), 
-	url('fonts/Plakkaat.woff') format('woff'), 
-	url('fonts/Plakkaat.ttf') format('truetype'), 
-	url('fonts/Plakkaat.svg') format('svg');
+	url('fonts/Comfortaa-VariableFont_wght.woff') format('woff'), 
+	url('fonts/Comfortaa-VariableFont_wght.ttf') format('truetype'), 
+	url('fonts/Comfortaa-VariableFont_wght.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-@font-face {
-	font-family: 'Conv_AndikaNewBasic-Regular';
-	src: url('fonts/AndikaNewBasic-Regular.eot');
-	src: local('☺'), 
-	url('fonts/AndikaNewBasic-Regular.woff') format('woff'), 
-	url('fonts/AndikaNewBasic-Regular.ttf') format('truetype'), 
-	url('fonts/AndikaNewBasic-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
+/*-----------------------------------------------------------------------------------*/
 
-@font-face {
-	font-family: 'Conv_AndikaNewBasic-Bold';
-	src: url('fonts/AndikaNewBasic-Bold.eot');
-	src: local('☺'), 
-	url('fonts/AndikaNewBasic-Bold.woff') format('woff'), 
-	url('fonts/AndikaNewBasic-Bold.ttf') format('truetype'), 
-	url('fonts/AndikaNewBasic-Bold.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_OpenDyslexic-Regular';
-	src: url('fonts/OpenDyslexic-Regular.eot');
-	src: local('☺'), 
-	url('fonts/OpenDyslexic-Regular.woff') format('woff'), 
-	url('fonts/OpenDyslexic-Regular.ttf') format('truetype'), 
-	url('fonts/OpenDyslexic-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_OpenDyslexic-Bold';
-	src: url('fonts/OpenDyslexic-Bold.eot');
-	src: local('☺'), 
-	url('fonts/OpenDyslexic-Bold.woff') format('woff'), 
-	url('fonts/OpenDyslexic-Bold.ttf') format('truetype'), 
-	url('fonts/OpenDyslexic-Bold.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_ChelseaMarket-Regular';
-	src: url('fonts/ChelseaMarket-Regular.eot');
-	src: local('☺'), 
-	url('fonts/ChelseaMarket-Regular.woff') format('woff'), 
-	url('fonts/ChelseaMarket-Regular.ttf') format('truetype'), 
-	url('fonts/ChelseaMarket-Regular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
-
-@font-face {
-	font-family: 'Conv_sweetpearegular';
-	src: url('fonts/sweetpearegular.eot');
-	src: local('☺'), 
-	url('fonts/sweetpearegular.woff') format('woff'), 
-	url('fonts/sweetpearegular.ttf') format('truetype'), 
-	url('fonts/sweetpearegular.svg') format('svg');
-	font-weight: normal;
-	font-style: normal;
-}
 
 
 /* General */
@@ -222,6 +159,7 @@
     color: #484EA2;
     font-size: 3.8rem;
     letter-spacing: 3px;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
 }
 
 
