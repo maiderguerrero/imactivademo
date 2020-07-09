@@ -11,9 +11,6 @@
 	font-style: normal;
 }
 
-/*-----------------------------------------------------------------------------------*/
-
-
 
 /* General */
 
@@ -160,6 +157,7 @@
     font-size: 3.8rem;
     letter-spacing: 3px;
     font-family: 'Conv_Comfortaa-VariableFont_wght';
+    font-weight: bold;
 }
 
 
