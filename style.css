@@ -1341,6 +1341,7 @@ a:hover, a:active, a:focus {
     position: relative;
     left: -11%;
     width: 120.1%;
+    padding: 0;
 }
 
 /* Caja 2*/ 
