@@ -183,6 +183,17 @@
 
 /*--------------------------------------ACTIVIDADES---------------------------------------*/
 
+/*----respuestas cortas------campo de texto-----------*/
+.shortanswer-container textarea:focus, 
+.shortanswer-container input:focus, 
+.shortanswer-container .preview:focus {
+    -webkit-box-shadow: 0 0 2px #009c75;
+    -moz-box-shadow: 0 0 2px #009c75;
+    box-shadow: 0 0 2px #009c75;
+    border-color: #009c75;
+}
+
+
 /*----------Imagen a imagen------------*/
 #actividad .image-over-image .drag_image-over-image li {
     height: 120px;
@@ -523,6 +534,80 @@ a:hover, a:active, a:focus {
     -o-text-overflow: ellipsis;
     text-overflow: ellipsis;
     display: none;
+}
+
+/*-------BOTONERA---------*/
+
+#actividad .content .review .attemps {
+    margin-left: 30px;
+    font-size: 15px;
+    display: inline-block;
+    color: #009d77;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
+}
+
+#actividad .content .review .attemps span {
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    color: #009c75;
+    background-color: transparent;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    text-align: center;
+    padding: 9px 9px;
+    margin: 0 3px;
+    display: inline-block;
+    line-height: 24px;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
+    font-size: 3rem;
+    border: 2px dotted #009c75;
+}
+
+
+
+.btn-primary,
+.btn-primary[disabled] {
+	color: #009d77;
+    background-color: transparent;
+    border-color: transparent;
+    border: 2px dotted #009d77;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
+    font-size: 18px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+
+.btn-primary:not([disabled]):hover,
+.btn-primary:not([disabled]):active,
+.btn-primary[disabled]:hover,
+.btn-primary[disabled]:active {
+	color: #fff;
+    background-color: #009d77;
+    border-color: transparent;
+
+}
+
+.btn-save[disabled],
+.btn-danger {
+	color: #C8494D;
+    background-color: transparent;
+    border-color: transparent;
+    border: 2px dotted #C8494D;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
+    font-size: 18px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+
+.btn-danger:hover, 
+.btn-danger:focus, 
+.btn-danger:active {
+	color: #fff;
+    background-color: #C8494D;
+    border-color: transparent;
 }
 
 /*botón corregir*/
