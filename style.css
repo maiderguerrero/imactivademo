@@ -474,12 +474,12 @@
 body:not(.isTablet) #indice .units ul li:hover:not(.disabled), 
 #indice .units ul li:focus:not(.disabled) {
     background: transparent;
-    border: 2.5px dotted #00AC81;
+    border: 2.5px dotted #009D77;
 }
 
 body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover .title, 
 body:not(.isTablet) #indice .units ul li.active:not(.disabled) a .title {
-    color: #00AC81;
+    color: #009D77;
     font-size: 1.8rem;
 }
 
@@ -509,7 +509,7 @@ body:not(.isTablet) #indice .units ul li:not(.disabled) a:hover,
 
 a:hover, a:active, a:focus {
     outline: 0;
-    color: #00ac81;
+    color: #009D77;
     text-decoration: none;
 }
 
