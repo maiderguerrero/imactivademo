@@ -195,6 +195,23 @@
     text-align: center;
 }
 
+/*------Adjuntar archivo------*/
+
+.deliverablefile .divtitle .title-deliverablefile {
+    font-size: 22px;
+    color: #009c75;
+    padding-bottom: 20px;
+    font-weight: bold;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
+}
+
+.no-files {
+    background: none;
+    color: #009c75;
+    font-size: 1.75em;
+    margin-top: 40px;
+    font-family: 'Conv_Comfortaa-VariableFont_wght';
+}
 
 /*--------actividades fill in the blank------*/
 	.workspace.frame {
@@ -521,7 +538,7 @@ a:hover, a:active, a:focus {
     text-align: center;
     overflow-wrap: break-word;
     vertical-align: top;
-    color: #ffcf01;
+    color: #009c75;
 }
 
 .bck-file-attach img {
